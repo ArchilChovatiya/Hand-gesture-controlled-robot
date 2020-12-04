@@ -11,4 +11,4 @@ Arduino project on hand gesture controlled robot
 - Juper cables
 
 ### Software
--Arduino IDE
+- Arduino IDE
