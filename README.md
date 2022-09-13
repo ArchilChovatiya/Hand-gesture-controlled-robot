@@ -8,7 +8,7 @@ Arduino project on hand gesture controlled robot
 - 2x Arduino Uno/ NodeMCU
 - 4x DC motors
 - 2x 5v Power supply
-- Juper cables
+- Jumper cables
 
 ### Software
 - Arduino IDE
